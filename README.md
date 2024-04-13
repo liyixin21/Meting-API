@@ -1,6 +1,6 @@
 # Meting-API
 
-https://meting-dd.2333332.xyz/test
+https://meting.liyixin.co/test
 
 ## 写在前面
 
