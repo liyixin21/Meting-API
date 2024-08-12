@@ -1,6 +1,6 @@
 # Meting-API
 
-https://meting-dd.2333332.xyz/test
+https://meting.220821.top/test
 
 ## 写在前面
 
@@ -71,9 +71,9 @@ More info https://github.com/xizeyoupan/MetingJS
 ## api网址
 仅为示例，不保证稳定性
 
-https://meting-dd.2333332.xyz/api => Deno Deploy
+https://meting.220821.top/api => Deno Deploy
 
-可自行测试，如 https://meting-dd.2333332.xyz/test
+可自行测试，如 https://meting.220821.top/test
 
 ## 部署
 
