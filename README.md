@@ -1,6 +1,6 @@
 # Meting-API
 
-https://meting-api-omega.vercel.app/test
+https://meting.220821.top/test
 
 ## Feature
 
